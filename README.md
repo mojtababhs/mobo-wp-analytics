@@ -12,7 +12,7 @@ Professional WordPress Analytics Plugin with Modern Dashboard, Real-Time Statist
 
 # Donate:
 
-BT:
+BTC:
 34M5FZmGiKST2x8aXkAQsAkVehjoAuBZK1
 
 USDT (TRC20):
