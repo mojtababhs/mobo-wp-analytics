@@ -116,25 +116,9 @@ Perfect for dashboards, mobile apps and external monitoring systems.
 
 ### Main Dashboard
 
-![Dashboard](screenshots/dashboard-main.png)
-
-### Charts & Devices
-
-![Charts](screenshots/charts-devices.png)
-
-### Top Pages & Campaigns
-
-![Top Pages](screenshots/top-pages-campaigns.png)
-
-### Plugin Settings
-
-![Settings](screenshots/settings.png)
-
----
-![Uploading MoBo-WP-Analytics-ScreenShot (1).jpg…]()
-![Uploading MoBo-WP-Analytics-ScreenShot (2).jpg…]()
-![Uploading MoBo-WP-Analytics-ScreenShot (3).jpg…]()
-![Uploading MoBo-WP-Analytics-ScreenShot (4).jpg…]()
+<img width="1652" height="809" alt="MoBo-WP-Analytics-ScreenShot (4)" src="https://github.com/user-attachments/assets/47ec369c-44ee-435e-84e1-f32f8027fd27" />
+<img width="1667" height="823" alt="MoBo-WP-Analytics-ScreenShot (1)" src="https://github.com/user-attachments/assets/ff648322-4744-4360-8c4c-a6000886d615" />
+<img width="1667" height="668" alt="MoBo-WP-Analytics-ScreenShot (2)" src="https://github.com/user-attachments/assets/63082b0a-785a-4b78-bb57-611265b078ae" />
 
 ---
 
