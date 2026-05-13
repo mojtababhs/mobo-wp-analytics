@@ -361,5 +361,5 @@ MIT License
 
 # ❤️ توسعه‌دهنده
 
-Developed with ❤️ by MoBo
+Developed with ❤️ by Mojtaba Bolhasani (MoBo) - mojtaba.masters [at] gmail . com
 
