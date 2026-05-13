@@ -156,38 +156,6 @@ Perfect for dashboards, mobile apps and external monitoring systems.
 
 ---
 
-# 📸 اسکرین‌شات‌ها
-
-## داشبورد اصلی
-
-![MoBo WP Analytics Dashboard](screenshots/dashboard-main.png)
-
-داشبورد اصلی افزونه شامل آمار کلی، نمودارها، بازدیدها، کاربران آنلاین و تحلیل منابع ورودی.
-
----
-
-## نمودارها و تحلیل دستگاه‌ها
-
-![Charts and Devices](screenshots/charts-devices.png)
-
-نمایش نمودار روند بازدید، نوع دستگاه کاربران و منابع ترافیک.
-
----
-
-## صفحات پربازدید و کمپین‌ها
-
-![Top Pages and Campaigns](screenshots/top-pages-campaigns.png)
-
-تحلیل صفحات پربازدید، کمپین‌های تبلیغاتی و صفحات ورود و خروج.
-
----
-
-## تنظیمات افزونه
-
-![Plugin Settings](screenshots/settings.png)
-
-بخش تنظیمات حرفه‌ای افزونه برای کنترل نوع رهگیری، حریم خصوصی، API و پاکسازی داده‌ها.
-
 ---
 
 # 🚀 نصب افزونه
