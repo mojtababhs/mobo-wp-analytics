@@ -10,6 +10,24 @@ Professional WordPress Analytics Plugin with Modern Dashboard, Real-Time Statist
 
 ---
 
+# Donate:
+
+BT:
+34M5FZmGiKST2x8aXkAQsAkVehjoAuBZK1
+
+USDT (TRC20):
+TYLfBEUZKmSbrCJBip8rsHtAcwXvEU7Vgg
+
+USDT (BEP20):
+
+0xcb50eafd7b8736c6d48fae02d7a7808f1cba6373
+
+ETH (ERC20):
+
+0x870650f264cf5396cab460eee36d6b252860cc68
+
+---
+
 # 🇺🇸 English
 
 ## ✨ Features
