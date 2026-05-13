@@ -131,6 +131,12 @@ Perfect for dashboards, mobile apps and external monitoring systems.
 ![Settings](screenshots/settings.png)
 
 ---
+![Uploading MoBo-WP-Analytics-ScreenShot (1).jpg…]()
+![Uploading MoBo-WP-Analytics-ScreenShot (2).jpg…]()
+![Uploading MoBo-WP-Analytics-ScreenShot (3).jpg…]()
+![Uploading MoBo-WP-Analytics-ScreenShot (4).jpg…]()
+
+---
 
 # 🇮🇷 فارسی
 
